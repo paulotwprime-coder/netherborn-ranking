@@ -1,0 +1,35 @@
+{
+  "updated_at": "2026-08-16T17:55:02-03:00",
+  "ranking": [
+    {
+      "name": "harvwh",
+      "uuid": "9b59e34d-8240-3c6d-955a-c4bb2df67b56",
+      "badges": 3,
+      "position": 1
+    },
+    {
+      "name": "Heitordjdkdk",
+      "uuid": "0ad4fde2-b215-36ee-975b-23c18410b5b7",
+      "badges": 3,
+      "position": 2
+    },
+    {
+      "name": "Meliodas",
+      "uuid": "878f9f7f-3566-3914-a9ff-4be4542e45fc",
+      "badges": 3,
+      "position": 3
+    },
+    {
+      "name": "ndznx",
+      "uuid": "6164fec6-6185-344e-8e6c-e5acfb3e131b",
+      "badges": 2,
+      "position": 4
+    },
+    {
+      "name": "RaiozinLIndo",
+      "uuid": "2f44897b-d4b8-3282-bbae-5e035abd5e80",
+      "badges": 2,
+      "position": 5
+    }
+  ]
+}
